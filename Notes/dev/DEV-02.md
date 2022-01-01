@@ -20,3 +20,6 @@
     1 or 3 then
     Shift Ctrl Alt S (Shearing)
 
+
+    Press E to toggle evenness for loop cuts
+
