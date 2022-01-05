@@ -1,5 +1,5 @@
 # DEV-12, Creating Tyranitar
-#### Tags: [subdivisions, sculpting]
+#### Tags: [subdivisions, sculpting, centering]
 
 ## References
 
